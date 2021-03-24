@@ -1,0 +1,8 @@
+<resources>
+    <string name="preference_title_state">PREFERENCE_TITLE_STATE</string>
+    <string name="title_app">TryoutCompose</string>
+    <string name="title_first">First</string>
+    <string name="title_second">Second</string>
+    <string name="home_toggle">Toggle</string>
+    <string name="title_third">Third</string>
+</resources>
